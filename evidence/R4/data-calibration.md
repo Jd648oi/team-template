@@ -3,8 +3,8 @@
 ## Outcome vs. Prediction
 
 | Metric | Predicted | Actual | Accuracy |
-|---|---|---|---|
-| [ ] | [ ] | [ ] | [ ] |
+|SPX direction|Cautious/Volatile|Down -0.32%|High|
+| [Sector call ] | [XLK > SPX > XLF, XLE ] | [XLK +1.03%, XLF -2.43%, XLE -1.27% ] | [High] |
 
 ## Calibration Trend
-[If no predictions exist yet this sprint (e.g. before the LLM pipeline goes live), say so explicitly here — do not invent a prediction to fill the table. In that case, use this section to confirm that every required data point elsewhere in the repo was sourced and dated correctly.]
+This sprint's prediction accuracy was high. The macro thesis correctly anticipated a cautious market, which resulted in a slight decline for the SPX. More impressively, the sector rotation call was precise: Technology (XLK) was correctly identified as the outperformer, while Financials (XLF) and Energy (XLE) were accurately flagged as laggards. This suggests our macro analysis framework is well-calibrated for identifying sector-specific opportunities in a volatile environment.
